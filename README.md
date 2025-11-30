@@ -152,7 +152,7 @@ You may add a license such as MIT or Apache-2.0 here.
 If you have questions or want to collaborate:
 
 📩 Email: **nuttawat.mnk@gmail.com**  
-🌐 GitHub: https://github.com/yourusername  
+🌐 GitHub: **https://github.com/chillalways04**
 
 ---
 
