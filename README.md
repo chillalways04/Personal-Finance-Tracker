@@ -29,28 +29,7 @@ Designed for performance, clean structure, and scalability.
 
 ---
 
-## 🖥️ Demo (Optional)
 
-If you deploy online, add link here:
-
-👉 **Live Demo:** https://your-demo-link.com  
-👉 **Preview Video / GIF:** (Drop GIF here)
-
----
-
-## 🖼️ Screenshots
-
-> *(คุณสามารถเพิ่มภาพจริงในภายหลังได้ หรือวาง URL ของรูปแทน)*
-
-| Home Page | Product Page |
-|-----------|--------------|
-| ![Home](https://via.placeholder.com/400x250?text=Home+Preview) | ![Product](https://via.placeholder.com/400x250?text=Product+Preview) |
-
-| UI Components | Responsive Layout |
-|---------------|-------------------|
-| ![UI](https://via.placeholder.com/400x250?text=UI+Components) | ![Responsive](https://via.placeholder.com/400x250?text=Responsive) |
-
----
 
 ## 🧱 Tech Stack
 
