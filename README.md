@@ -8,30 +8,30 @@
 
 ---
 
-## 📌 Project Info
+## Project Info
 
 This repository contains the source code of a modern frontend web application.  
 Designed for performance, clean structure, and scalability.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⚡ Fast development with **Vite**
-- 🎨 Beautiful UI using **TailwindCSS** + **shadcn/ui**
-- 🔒 Type-safe code using **TypeScript**
-- 📱 Responsive layouts for all devices
-- ♻ Reusable and well-structured React components
-- 🧩 Easy to customize and extend
-- 🚀 Production-ready build system
-- 🌙 Dark mode support (optional)
-- 🧭 Routing-ready structure (React Router)
+- Fast development with **Vite**
+- Beautiful UI using **TailwindCSS** + **shadcn/ui**
+- Type-safe code using **TypeScript**
+- Responsive layouts for all devices
+- Reusable and well-structured React components
+- Easy to customize and extend
+- Production-ready build system
+- Dark mode support (optional)
+- Routing-ready structure (React Router)
 
 ---
 
 
 
-## 🧱 Tech Stack
+## Tech Stack
 
 This project is built with:
 
@@ -43,7 +43,7 @@ This project is built with:
 
 ---
 
-## 🛠️ How to Edit This Code
+## How to Edit This Code
 
 You can edit the project in any environment you prefer.
 
@@ -85,7 +85,7 @@ Perfect for small updates.
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 project/
@@ -105,7 +105,7 @@ project/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 Create a production build:
 
@@ -122,7 +122,7 @@ Deploy the **dist/** folder to:
 
 ---
 
-## 🌐 Custom Domain
+## Custom Domain
 
 Add a domain through your hosting provider:  
 
@@ -132,7 +132,7 @@ Add a domain through your hosting provider:
 
 ---
 
-## 👥 Contributors (Optional)
+## Contributors (Optional)
 
 | Name | Role |
 |------|------|
@@ -141,18 +141,18 @@ Add a domain through your hosting provider:
 
 ---
 
-## 📜 License
+## License
 
 You may add a license such as MIT or Apache-2.0 here.
 
 ---
 
-## 📧 Contact
+## Contact
 
 If you have questions or want to collaborate:
 
-📩 Email: **nuttawat.mnk@gmail.com**  
-🌐 GitHub: **https://github.com/chillalways04**
+Email: **nuttawat.mnk@gmail.com**  
+GitHub: **https://github.com/chillalways04**
 
 ---
 
